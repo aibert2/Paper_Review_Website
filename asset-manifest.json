@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Paper_Review_Website/static/js/main.a0a26d85.js",
+    "main.js": "/Paper_Review_Website/static/js/main.26c99e34.js",
     "static/media/home-decor-3.jpg": "/Paper_Review_Website/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
     "static/media/home-decor-2.jpg": "/Paper_Review_Website/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
     "static/media/home-decor-1.jpg": "/Paper_Review_Website/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
@@ -16,9 +16,9 @@
     "static/media/kal-visuals-square.jpg": "/Paper_Review_Website/static/media/kal-visuals-square.3210e28a48ff572ae88b.jpg",
     "static/media/team-4.jpg": "/Paper_Review_Website/static/media/team-4.85c82b6e60178804017f.jpg",
     "index.html": "/Paper_Review_Website/index.html",
-    "main.a0a26d85.js.map": "/Paper_Review_Website/static/js/main.a0a26d85.js.map"
+    "main.26c99e34.js.map": "/Paper_Review_Website/static/js/main.26c99e34.js.map"
   },
   "entrypoints": [
-    "static/js/main.a0a26d85.js"
+    "static/js/main.26c99e34.js"
   ]
 }
