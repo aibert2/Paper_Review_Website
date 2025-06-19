@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/Paper_Review_Website/static/js/main.a0a26d85.js",
+    "static/media/home-decor-3.jpg": "/Paper_Review_Website/static/media/home-decor-3.74d13fcbd3c631fc7908.jpg",
+    "static/media/home-decor-2.jpg": "/Paper_Review_Website/static/media/home-decor-2.b4e5397c9846645ba275.jpg",
+    "static/media/home-decor-1.jpg": "/Paper_Review_Website/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
+    "static/media/bg-profile.jpeg": "/Paper_Review_Website/static/media/bg-profile.af1219a742e09fc7b612.jpeg",
+    "static/media/favicon.ico": "/Paper_Review_Website/static/media/favicon.c97a06733e22528fc83c.ico",
+    "static/media/home-decor-4.jpeg": "/Paper_Review_Website/static/media/home-decor-4.5b448fd339a14695f6aa.jpeg",
+    "static/media/team-1.jpg": "/Paper_Review_Website/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
+    "static/media/bruce-mars.jpg": "/Paper_Review_Website/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/marie.jpg": "/Paper_Review_Website/static/media/marie.c28f32663b6432b46f78.jpg",
+    "static/media/team-2.jpg": "/Paper_Review_Website/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
+    "static/media/team-3.jpg": "/Paper_Review_Website/static/media/team-3.0ef0be95e6850814c79e.jpg",
+    "static/media/ivana-square.jpg": "/Paper_Review_Website/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
+    "static/media/kal-visuals-square.jpg": "/Paper_Review_Website/static/media/kal-visuals-square.3210e28a48ff572ae88b.jpg",
+    "static/media/team-4.jpg": "/Paper_Review_Website/static/media/team-4.85c82b6e60178804017f.jpg",
+    "index.html": "/Paper_Review_Website/index.html",
+    "main.a0a26d85.js.map": "/Paper_Review_Website/static/js/main.a0a26d85.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a0a26d85.js"
+  ]
+}
